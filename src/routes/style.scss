@@ -1,0 +1,8 @@
+$main_clr: tomato;
+img { height: 64px; border: darkgreen 5px solid; }
+h1 { color: $main_clr; font-size: 2em; }
+span { text-decoration: line-through; }
+.oya {
+    a { background-color: mediumseagreen; }
+    strong { background-color: mediumseagreen; }
+}
