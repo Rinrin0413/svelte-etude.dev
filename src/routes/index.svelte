@@ -14,7 +14,7 @@
 
 <Kytaa/>
 <svelte:head>
-    <link rel="stylesheet" href="style.css"/>
+    <link rel="stylesheet" href="style.scss"/>
 </svelte:head>
 
 <h1><span>お{na}べ</span>構文{dot === "." ? "( 'ω')" : dot === ".." ? "('ω' )": dot}</h1>
