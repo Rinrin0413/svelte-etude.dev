@@ -6,7 +6,6 @@
 
     <title>Svelte etude|Home</title>
     <meta name="description" content="すべるで">
-    <link rel="shortcut icon" href="static/favicon.png">
 
     <meta property="og:site_name" content="すべるて。">
     <meta property="og:title" content="Home">
