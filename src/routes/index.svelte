@@ -25,7 +25,7 @@
     <meta name="author" content="@Rinrin_2nd">
     <meta name="copyright" content="©Rinrin_2nd"> 
 
-    <script type="text/javascript" src="src/routes/script.js"></script>
+    ,<!--<script type="text/javascript" src="src/routes/script.js"></script>-->
     <link rel="stylesheet" lang="scss" href="src/routes/style.scss">
 </svelte:head>
 <script>
