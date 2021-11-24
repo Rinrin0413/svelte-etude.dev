@@ -1,12 +1,12 @@
 <svelte:head>
-    <title>Svelte etude|Home</title> <!--Tab表示用-->
-    <meta name="title" content="Svelte etude|Home"> <!--検索時用-->
-    <meta name="description" content="すべるで">
+    <title>Svelte etude|工ｴｴｪｪ(´д｀)ｪｪｴｴ工</title> <!--Tab表示用-->
+    <meta name="title" content="Svelte etude|工ｴｴｪｪ(´д｀)ｪｪｴｴ工"> <!--検索時用-->
+    <meta name="description" content="えぇ">
 
-    <meta property="og:title" content="Home">
-	<meta property="og:description" content="すべるで">
-    <meta property="og:url" content="https://svelte-etude-dev.pages.dev/">
-    <meta property="og:type" content="website"> <!-- website or article -->
+    <meta property="og:title" content="工ｴｴｪｪ(´д｀)ｪｪｴｴ工">
+	<meta property="og:description" content="えぇ">
+    <meta property="og:url" content="https://svelte-etude-dev.pages.dev/eee">
+    <meta property="og:type" content="article"> <!-- website or article -->
     <style lang="scss">@import "../style.scss";</style>
 </svelte:head>
 
