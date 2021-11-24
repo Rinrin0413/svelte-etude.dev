@@ -1,3 +1,15 @@
+<svelte:head>
+    <title>Svelte etude|Home</title> <!--Tab表示用-->
+    <meta name="title" content="Svelte etude|Home"> <!--検索時用-->
+    <meta name="description" content="すべるで">
+
+    <meta property="og:title" content="Home">
+	<meta property="og:description" content="すべるで">
+    <meta property="og:url" content="https://svelte-etude-dev.pages.dev/">
+    <meta property="og:type" content="website"> <!-- website or article -->
+    <style lang="scss">@import "./style.scss";</style>
+</svelte:head>
+
 <script>
     import mojis  from "./script.js";
     import Kytaa from './Kytaa.svelte';
@@ -13,12 +25,8 @@
 </script>
 
 <Kytaa/>
-<svelte:head>
-    <style lang="scss">
-        @import "./style.scss"
-    </style>
-</svelte:head>
 
+<h1><span>お</span></h1>
 <h1><span>お{na}べ</span>構文{dot === "." ? "( 'ω')" : dot === ".." ? "('ω' )": dot}</h1>
 
 <button on:click={boo}>boo!!({excl})</button>

@@ -1,3 +1,15 @@
+<svelte:head>
+    <title>Svelte etude|Home</title> <!--Tab表示用-->
+    <meta name="title" content="Svelte etude|Home"> <!--検索時用-->
+    <meta name="description" content="すべるで">
+
+    <meta property="og:title" content="Home">
+	<meta property="og:description" content="すべるで">
+    <meta property="og:url" content="https://svelte-etude-dev.pages.dev/">
+    <meta property="og:type" content="website"> <!-- website or article -->
+    <style lang="scss">@import "../style.scss";</style>
+</svelte:head>
+
 工工工ｴｴｴｴｴｴｪｪｪｪｪｪ(ﾟДﾟ)ｪｪｪｪｪｪｴｴｴｴｴｴ工工工
 工工工ｴｴｴｴｴｴｪｪｪｪｪｪ(ﾟДﾟ)ｪｪｪｪｪｪｴｴｴｴｴｴ工工工
 工工工ｴｴｴｴｴｴｪｪｪｪｪｪ(ﾟДﾟ)ｪｪｪｪｪｪｴｴｴｴｴｴ工工工
