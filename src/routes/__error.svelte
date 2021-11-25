@@ -7,7 +7,7 @@
 	<meta property="og:description" content="すべるで">
     <meta property="og:url" content="https://svelte-etude-dev.pages.dev/">
     <meta property="og:type" content="website">--> <!-- website or article -->
-    <style lang="scss">@import "./style.scss";</style>
+    <style lang="scss">@import "../../static/style/style.scss";</style>
 </svelte:head>
 
 <script>

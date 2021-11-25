@@ -7,11 +7,11 @@
 	<meta property="og:description" content="すべるで">
     <meta property="og:url" content="https://svelte-etude-dev.pages.dev/">
     <meta property="og:type" content="website"> <!-- website or article -->
-    <style lang="scss">@import "./style.scss";</style>
+    <style lang="scss">@import "../../static/style/style.scss";</style>
 </svelte:head>
 
 <script>
-    import mojis  from "./script.js";
+    import mojis  from "../../static/script/script.js";
     import Kytaa from './Kytaa.svelte';
     const na = mojis[0];
     const sbelde = "https://svelte.jp/svelte-logo-horizontal.svg";

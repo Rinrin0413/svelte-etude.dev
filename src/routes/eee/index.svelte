@@ -7,7 +7,7 @@
 	<meta property="og:description" content="えぇ">
     <meta property="og:url" content="https://svelte-etude-dev.pages.dev/eee">
     <meta property="og:type" content="article"> <!-- website or article -->
-    <style lang="scss">@import "../style.scss";</style>
+    <style lang="scss">@import "../../../static/style/style.scss";</style>
 </svelte:head>
 
 工工工ｴｴｴｴｴｴｪｪｪｪｪｪ(ﾟДﾟ)ｪｪｪｪｪｪｴｴｴｴｴｴ工工工
