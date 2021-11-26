@@ -10,8 +10,7 @@
     <style lang="scss">@import "../../static/style/style.scss";</style>
 </svelte:head>
 
-<script>
-</script>
-
-404 Hage(はげ) not foundwwwwwwwww
-<img src="../../static/img/error404.gif" alt="error404">
+<a href="./index.html">
+    404 Hage(はげ) not foundwwwwwwwww
+    <img src="../../static/img/error404.gif" alt="error404">
+</a>
