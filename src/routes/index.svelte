@@ -8,14 +8,15 @@
     <meta property="og:url" content="https://svelte-etude-dev.pages.dev/">
     <meta property="og:type" content="website"> <!-- website or article -->
     <style lang="scss">@import "../../static/style/style.scss";</style>
+    <script type="text/javascript" src="../../static/script/script.js"></script>
 </svelte:head>
 
 <script>
     import mojis  from "../../static/script/script.js";
     import Kytaa from './Kytaa.svelte';
-    const na = mojis[0];
-    const sbelde = "https://svelte.jp/svelte-logo-horizontal.svg";
-    const tlykeshy = "<strong>AAA</strong>";
+    const na = mojis[1];
+    const sbelde =mojis[7];
+    const tlykeshy = mojis[8];
     let dot = ".";
     function boo() { dot += "."; }
     $: excl = dot.length;
